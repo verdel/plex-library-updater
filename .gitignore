@@ -1,0 +1,11 @@
+*
+!.dockerignore
+!.gitignore
+!versions.yaml
+!README.md
+!pkg
+!Makefile
+!main.go
+!go.sum
+!go.mod
+!Dockerfile
