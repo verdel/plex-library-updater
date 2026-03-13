@@ -1,0 +1,17 @@
+*
+
+!.dockerignore
+!.gitignore
+!README.md
+!main.go
+!go.sum
+!go.mod
+!Dockerfile
+!.renovaterc
+!.editorconfig
+
+!pkg/
+!pkg/**/*
+
+!.github/
+!.github/**/*
